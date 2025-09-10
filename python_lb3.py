@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 import pytz  # замість zoneinfo
 
-API_KEY = "b52de3195d8a397bfc0bdfd3f911d754"
+API_KEY = "[BY REQUEST]"
 BASE_URL = "https://api.openweathermap.org/data/2.5/"
 CITY = "Харків"
 
